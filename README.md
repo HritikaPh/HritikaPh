@@ -11,7 +11,7 @@
 <a href="https://codeforces.com/profile/hritika17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="hritika17" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/hritika072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="hritika072" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/hritikaph5ah7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="hritikaph5ah7" height="30" width="40" /></a>
-<a href="https://discord.gg/hritika072" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="hritika072" height="30" width="40" /></a>
+
 </p>
 
 <img align="right" alt="coding" width="300" src="https://user-images.githubusercontent.com/74038190/236119160-976a0405-caa7-470c-9356-16d43402ea0a.gif">
@@ -48,8 +48,13 @@
 
 ---
 <h3>Github stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hritikaph&show_icons=true&locale=en&layout=compact" alt="hritikaph"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hritikaph&show_icons=true&locale=en" alt="hritikaph"/></p>
 
-<h3>                </h3><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hritikaph&" alt="hritikaph" /></p>
+<p align="center">
+  <p align="cnter"> 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hritikaph&show_icons=true&locale=en&layout=compact" alt="hritikaph" height="200">
+    <img src="https://github-readme-stats.vercel.app/api?username=hritikaph&show_icons=true&locale=en" alt="hritikaph" height="200">
+  </p>
+  
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hritikaph&" alt="hritikaph">
+</p>
