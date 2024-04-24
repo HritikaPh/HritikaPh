@@ -52,9 +52,9 @@
 
 <p align="center">
   <p align="cnter"> 
-    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hritikaph&show_icons=true&locale=en&layout=compact" alt="hritikaph" height="200">
-    <img src="https://github-readme-stats.vercel.app/api?username=hritikaph&show_icons=true&locale=en" alt="hritikaph" height="200">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=hritikaph&show_icons=true&locale=en&layout=compact" alt="hritikaph" height="100" width="150">
+    <img src="https://github-readme-stats.vercel.app/api?username=hritikaph&show_icons=true&locale=en" alt="hritikaph" height="100" width="150">
   </p>
   
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hritikaph&" alt="hritikaph">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=hritikaph&" alt="hritikaph" width="200">
 </p>
