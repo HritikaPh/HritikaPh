@@ -48,8 +48,8 @@
 
 ---
 <h3>Github stats:</h3>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hritikaph&show_icons=true&locale=en&layout=compact" alt="hritikaph" height="200" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=hritikaph&show_icons=true&locale=en&layout=compact" alt="hritikaph"/></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hritikaph&show_icons=true&locale=en" alt="hritikaph" height="200" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hritikaph&show_icons=true&locale=en" alt="hritikaph"/></p>
 
 <h3>                </h3><p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hritikaph&" alt="hritikaph" /></p>
