@@ -1,5 +1,17 @@
-<h1 align="center">Hello World! 🌍</h1>
-<h3 align="center">I am Hritika Phapale, an undergraduate student at PICT currently pursuing B.E., always eager to learn and have a good time. I love diving into new projects and tinkering with tech stuff. I've tried my hand at building websites, creating apps, and even playing around with how things look and feel (that's UI/UX design!). It's been a blast exploring different areas of tech! Join me on my GitHub journey, where we'll tackle coding challenges together and maybe share a few laughs along the way. Let's turn our ideas into reality and have fun doing it!✨ So, grab your favorite snack (for me, it's samosas all the way! 🥟), and let's dive into the world of tech together! 💻✨</h3>
+<h1 align="center">Hey there! 👋</h1>
+<h3 align="center">
+I'm Hritika Phapale, a third-year student at Pune Institute of Computer Technology (PICT), passionate about software engineering and always eager to learn and grow in the field.
+
+During my journey at PICT, I've delved into various technical domains, including web development, mobile application development, and UI/UX design. I've worked on exciting projects like "RENEGAN," a user-friendly police app 🚓, "PICTURE PICASSO," a client-side image converter 🎨, and "RECIPE FINDER," a platform for exploring diverse cuisines 🍲.
+
+I'm proficient in languages like C++, Python, and JavaScript, with experience in frameworks like Django and Flutter. My technical toolkit includes data structures and algorithms, MySQL, Git, and GitHub, among others. I excel at problem-solving, project coordination, and effective documentation 🛠️.
+
+Beyond academics, I've taken on leadership roles, teaching HTML, CSS, and JavaScript to fellow students and coordinating projects during major tech events 🎓. Additionally, I've earned recognition like winning at Impetus and Concepts 2024 🏆 and reaching the finals in the Rajasthan Police Hackathon 1.0 🚀.
+
+My passion for learning extends beyond the classroom. I actively participate in competitive programming platforms like Codeforces and LeetCode, constantly seeking opportunities to improve and innovate 💡.
+
+I'm excited about the opportunity to contribute my skills and enthusiasm to the world of software engineering. Feel free to reach out, and let's collaborate on exciting projects together! 🌟
+</h3>
 
 ---
 
