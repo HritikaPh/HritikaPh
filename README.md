@@ -1,6 +1,6 @@
 <h1 align="center">Hey there! 👋</h1>
 <h3 align="center">
-I'm Hritika Phapale, a third-year student at Pune Institute of Computer Technology (PICT), passionate about software engineering and always eager to learn and grow in the field.
+I'm Hritika Phapale, a final year student at Pune Institute of Computer Technology (PICT), passionate about software engineering and always eager to learn and grow in the field.
 
 During my journey at PICT, I've delved into various technical domains, including web development, mobile application development, and UI/UX design. I've worked on exciting projects like "RENEGAN," a user-friendly police app 🚓, "PICTURE PICASSO," a client-side image converter 🎨, and "RECIPE FINDER," a platform for exploring diverse cuisines 🍲.
 
