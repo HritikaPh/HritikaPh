@@ -4,7 +4,7 @@ I'm Hritika Phapale, a final year student at Pune Institute of Computer Technolo
 
 During my journey at PICT, I've delved into various technical domains, including web development, mobile application development, and UI/UX design. I've worked on exciting projects like "RENEGAN," a user-friendly police app 🚓, "PICTURE PICASSO," a client-side image converter 🎨, and "RECIPE FINDER," a platform for exploring diverse cuisines 🍲.
 
-I'm proficient in languages like C++, Python, and JavaScript, with experience in frameworks like Django and Flutter. My technical toolkit includes data structures and algorithms, MySQL, Git, and GitHub, among others. I excel at problem-solving, project coordination, and effective documentation 🛠️.
+I'm proficient in languages like C++, Java, and JavaScript, with experience in frameworks like Django and Flutter. My technical toolkit includes data structures and algorithms, MySQL, Git, and GitHub, among others. I excel at problem-solving, project coordination, and effective documentation 🛠️.
 
 Beyond academics, I've taken on leadership roles, teaching HTML, CSS, and JavaScript to fellow students and coordinating projects during major tech events 🎓. Additionally, I've earned recognition like winning at Impetus and Concepts 2024 🏆 and reaching the finals in the Rajasthan Police Hackathon 1.0 🚀.
 
